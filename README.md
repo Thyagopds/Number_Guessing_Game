@@ -16,6 +16,7 @@ Este é um jogo de adivinhação de números desenvolvido em Java. O objetivo é
 Boa sorte e divirta-se testando suas habilidades de adivinhação!
 
 🚀 Tecnologias Utilizadas
+
 Java: Linguagem de programação usada para desenvolver o jogo.
 IntelliJ IDEA: IDE escolhida para o desenvolvimento.
 Git: Controle de versão utilizado para gerenciar o desenvolvimento do projeto.
