@@ -10,7 +10,7 @@ public class Main {
 
         aux.metodoAux();
         System.out.println("""
-                Do you want to play again?
+                Do you want to play again???
                 1- YES
                 2- NO
                 """);
