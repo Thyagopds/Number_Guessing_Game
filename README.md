@@ -16,21 +16,19 @@ Este é um jogo de adivinhação de números desenvolvido em Java. O objetivo é
 Boa sorte e divirta-se testando suas habilidades de adivinhação!
 
 🚀 Tecnologias Utilizadas
-
-Java: Linguagem de programação usada para desenvolver o jogo.
-IntelliJ IDEA: IDE escolhida para o desenvolvimento.
-Git: Controle de versão utilizado para gerenciar o desenvolvimento do projeto.
+- Java: Linguagem de programação usada para desenvolver o jogo.
+- IntelliJ IDEA: IDE escolhida para o desenvolvimento.
+- Git: Controle de versão utilizado para gerenciar o desenvolvimento do projeto.
 
 🔧 Como Executar
 Para rodar o jogo localmente, certifique-se de ter o Java instalado. Em seguida, siga os passos:
 
 1. Clone este repositório:
-  - git clone https://github.com/Thyagopds/number_guessing_game.git
-2. Navegue até o diretório do projeto:
-  - cd number_guessing_game
+      - git clone https://github.com/Thyagopds/number_guessing_game.git
+3. Navegue até o diretório do projeto:
+     - cd number_guessing_game
 3. Compile e execute o código:
-  - javac src/Main.java
-  - java src/Main
+     - javac src/Main.java
+     - java src/Main
  
-🤝 Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
+🤝 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
