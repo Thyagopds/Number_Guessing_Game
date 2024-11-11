@@ -1,4 +1,4 @@
-# Number_Guessing_Game
+# Number_Guessing_Game / Jogo de adivinhação de números
 
 Este é um jogo de adivinhação de números desenvolvido em Java. O objetivo é que o jogador adivinhe um número aleatório gerado pelo sistema. Com uma interface simples e interativa, este jogo é ideal para praticar lógica e aprimorar habilidades de programação em Java.
 
