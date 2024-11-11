@@ -10,7 +10,8 @@ Este é um jogo de adivinhação de números desenvolvido em Java. O objetivo é
    - Hard: Menor número de tentativas, para um desafio maior.
 3. O jogador deve tentar adivinhar o número, fornecendo suas tentativas como entrada.
 4. O sistema fornece feedback após cada tentativa, indicando se o número está "muito alto" ou "muito baixo" em relação ao número correto.
-5. O jogo termina quando o jogador adivinha corretamente o número ou quando todas as tentativas se esgotam.
+5. O jogo registra o número de tentativas feitas pelo jogador e, ao final, exibe estatísticas de desempenho.
+6. O jogo termina quando o jogador adivinha corretamente o número ou quando todas as tentativas se esgotam.
 Boa sorte e divirta-se testando suas habilidades de adivinhação!
 
 🚀 Tecnologias Utilizadas
