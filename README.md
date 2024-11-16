@@ -32,5 +32,3 @@ Para rodar o jogo localmente, certifique-se de ter o Java instalado. Em seguida,
      - java src/Main
  
 🤝 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
-
-https://roadmap.sh/projects/number-guessing-game
